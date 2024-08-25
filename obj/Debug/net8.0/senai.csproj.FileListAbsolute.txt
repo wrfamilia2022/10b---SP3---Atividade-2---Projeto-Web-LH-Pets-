@@ -1,0 +1,6 @@
+C:\senai\obj\Debug\net8.0\senai.csproj.AssemblyReference.cache
+C:\senai\obj\Debug\net8.0\senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\senai\obj\Debug\net8.0\senai.AssemblyInfoInputs.cache
+C:\senai\obj\Debug\net8.0\senai.AssemblyInfo.cs
+C:\senai\obj\Debug\net8.0\senai.csproj.CoreCompileInputs.cache
+C:\senai\obj\Debug\net8.0\senai.MvcApplicationPartsAssemblyInfo.cache
